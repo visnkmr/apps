@@ -4,11 +4,11 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Jekyll, Pineapple"
+  keywords: "BAPL,android"
 
 project:
   title: "Background Apps and Process list"
-  type: "Jekyll"
+  type: "Utility"
   url: "#"
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
