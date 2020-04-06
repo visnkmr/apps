@@ -5,7 +5,6 @@
 	padding: 0 3rem;
 	@include clearfix;
 }
-
 .header {
 	background: $color-white;
 	padding: 3rem 0;
@@ -23,13 +22,11 @@
 	float: right;
 
 	a {
-		@extend .logo;
 	}
 }
 
 .content {
 	background: $color-white;
-	padding: 7rem 0 0;
 	margin-bottom: 31.24rem;
 	position: relative;
 	top: 0;
@@ -37,14 +34,13 @@
 	z-index: 1;
 
 	@media (min-width: $breakpoint-medium) {
-		padding: 21rem 0 0;
+	
 		margin-bottom: 23.42rem;
 	}
 }
 
 .intro,
 .projects {
-	padding: 0 0 5rem;
 }
 
 .intro {
@@ -64,7 +60,6 @@
 
 		li {
 			float: left;
-			width: 50%;
 		}
 
 		a {
@@ -74,7 +69,6 @@
 
 	@media (min-width: $breakpoint-medium) {
 		li {
-			width: 33.33333%;
 		}
 	}
 
@@ -105,9 +99,7 @@
 		position: relative;
 
 		&:before {
-			content: "View Project";
 			color: $color-white;
-			@extend .h2;
 			font-weight: 800;
 			position: absolute;
 			top: 50%;
@@ -139,7 +131,9 @@
 	}
 
 	img {
-		width: 100%;
+		width:100%;/*adjust this value to your needs*/
+	    max-width: 100px;/* so it wont get bigger and pixelated*/
+	    height:auto;
 	}
 
 	span {
