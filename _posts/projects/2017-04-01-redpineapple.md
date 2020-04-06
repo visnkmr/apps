@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Red Pineapple"
+  title: "Background Apps and Process list"
   type: "Jekyll"
   url: "#"
   logo: "/assets/images/projects/redpineapple/logo.png"
