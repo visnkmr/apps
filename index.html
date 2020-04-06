@@ -20,16 +20,34 @@
 		</section> -->
 		<section class="projects">
 			<div class="container">
-				<!-- <h2>Projects I have worked on.</h2> -->
+				<h2>Amazon Appstore.</h2>
 				<ul class="projects-list">
 					{% for item in site.categories.projects reversed %}
 						<li>
 							<a href="{{ item.project.url }}"><!-- {{ item.url | prepend: site.baseurl }} -->
 								<div class="img-wrapper">
-									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" class="sowhat" />
+									<img src="{{ item.project.logo | prepend: site.baseurl }}"  class="sowhat" />
 								</div>
 								<!-- <span class="h2">{{ item.project.type }}</span> -->
-								<!-- <h3>{{ item.project.title }}</h3> -->
+								<!-- <h3>{{ item.project.title }}</h3> alt="{{ item.project.title }}"-->
+							</a>
+						</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</section>
+		<section class="play-projects">
+			<div class="container">
+				<h2>Google Play Store</h2>
+				<ul class="projects-list">
+					{% for item in site.categories.projects reversed %}
+						<li>
+							<a href="{{ item.project.purl }}"><!-- {{ item.url | prepend: site.baseurl }} -->
+								<div class="img-wrapper">
+									<img src="{{ item.project.logo | prepend: site.baseurl }}"  class="sowhat" />
+								</div>
+								<!-- <span class="h2">{{ item.project.type }}</span> -->
+								<!-- <h3>{{ item.project.title }}</h3> alt="{{ item.project.title }}"-->
 							</a>
 						</li>
 					{% endfor %}
