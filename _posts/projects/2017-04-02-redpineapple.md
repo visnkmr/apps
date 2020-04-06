@@ -4,23 +4,18 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "BAPL,android"
+  keywords: "Jekyll, Pineapple"
 
 project:
   title: "Background Apps and Process list"
-<<<<<<< HEAD:_posts/projects/2017-04-01-redpineapple.md
   type: "Jekyll"
   url: "test"
-=======
-  type: "Utility"
-  url: "#"
->>>>>>> 628b2a9fc1450f2acf7f94b629916c7db327785d:_posts/projects/2017-04-02-bapl.md
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
   title: "Red Pineapple Co"
-  url: "#"
+  url: "https://github.com/arnolds/pineapple"
   year: "2017"
 
 <!-- images:
