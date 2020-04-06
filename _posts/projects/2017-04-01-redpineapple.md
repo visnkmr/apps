@@ -9,7 +9,7 @@ meta:
 project:
   title: "Red Pineapple"
   type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  url: "#"
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
