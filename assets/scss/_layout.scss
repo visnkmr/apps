@@ -27,15 +27,18 @@
 
 .content {
 	background: $color-white;
+	/*
 	margin-bottom: 31.24rem;
+	*/
 	position: relative;
 	top: 0;
 	left: 0;
 	z-index: 1;
 
 	@media (min-width: $breakpoint-medium) {
-	
+	/*
 		margin-bottom: 23.42rem;
+		*/
 	}
 }
 
@@ -54,6 +57,7 @@
 
 .projects-list {
 	@media (min-width: $breakpoint-small) {
+	
 		margin-left: -1.5rem;
 		margin-right: -1.5rem;
 		@include clearfix;
@@ -337,15 +341,22 @@
 		}
 	}
 }
-
+.play-projects{
+	padding: 3rem 0;
+	
+}
 .footer {
+	padding: 5rem 0;
+	
+
+	/*
 	background: $color-alabaster;
 	bottom: 0;
-	left: 0;
-	padding: 5rem 0;
-	position: fixed;
 	right: 0;
+	left: 0;	
+	position: relative;
 	z-index: -1;
+	*/
 }
 
 .contact,
