@@ -54,6 +54,26 @@
 				</ul>
 			</div>
 		</section>
+		<section class="play-projects">
+			<div class="container">
+				<h2>Github Projects</h2>
+				<ul class="projects-list">
+					{% for item in site.categories.projects reversed %}
+					{% if item.project.gurl%}
+						<li>
+							<a href="{{ item.project.gurl }}"><!-- {{ item.url | prepend: site.baseurl }} -->
+								<div class="img-wrapper">
+									<img src="{{ item.project.logo | prepend: site.baseurl }}"  class="sowhat" />
+								</div>
+								<!-- <span class="h2">{{ item.project.type }}</span> -->
+								<!-- <h3>{{ item.project.title }}</h3> alt="{{ item.project.title }}"-->
+							</a>
+						</li>
+						{% endif %}
+					{% endfor %}
+				</ul>
+			</div>
+		</section>
 	</main>
 	{% include footer.html %}
 	<!-- <script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script> -->
