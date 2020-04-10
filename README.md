@@ -1,7 +1,7 @@
 All of our apps work on all devices including Android/Fire TVs and sticks unless otherwise mentioned.
 You can post issues/grievances on the [Github](https://github.com/visnkmr) page of the respective project or submit it via our Google Form : [Customer Care form](https://forms.gle/D761dPn1YKQrQJYD9).
 
-Developer Homepage ( [Amazon Appstore](https://www.amazon.com/s?rh=n%3A2350149011%2Cp_4%3AVishnu+N+K&ref=bl_dp_s_web_0) || [Google Play](https://play.google.com/store/apps/developer?id=Vishnu+N+K) || [Github](https://[Github].com/visnkmr) || Privacy Policy (https://appchoose.blogspot.com/p/privacy-policy.html) )
+Developer Homepage ( [Amazon Appstore](https://www.amazon.com/s?rh=n%3A2350149011%2Cp_4%3AVishnu+N+K&ref=bl_dp_s_web_0) || [Google Play](https://play.google.com/store/apps/developer?id=Vishnu+N+K) || [Github](https://[Github].com/visnkmr) || [Privacy Policy](https://appchoose.blogspot.com/p/privacy-policy.html) )
 
 Wireless File Manager (Browse, Send files to your TV Wirelessly) ( [Amazon Appstore](https://www.amazon.com/Wireless-Manager-Transfer-Files-Explorer/dp/B07MMTTWF3/) || [Google Play](https://play.google.com/store/apps/details?id=io.[Github].visnkmr.wirelessexplorer) || [Github](https://[Github].com/visnkmr/wfm) )
 
