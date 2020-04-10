@@ -27,7 +27,7 @@ Only on [Google Play](https://play.google.com/store/apps/developer?id=Vishnu+N+K
 
 Only on [Amazon Appstore](https://www.amazon.com/s?rh=n%3A2350149011%2Cp_4%3AVishnu+N+K&ref=bl_dp_s_web_0):
 
-Developer Tools Menu Shortcut for Fire TV (https://www.amazon.com/Developer-Tools-Menu-Shortcut-Fire/dp/B0778BRZM7/) ( [Docs](https://visnkmr.[Github].io/dev-tools-help) )
+[Developer Tools Menu Shortcut for Fire TV](https://www.amazon.com/Developer-Tools-Menu-Shortcut-Fire/dp/B0778BRZM7/) ( [Docs](https://visnkmr.[Github].io/dev-tools-help) )
 
 [Taotlus](https://www.amazon.com/dp/B07FDLVQQJ/) (Launcher for Fire TVs)
 
